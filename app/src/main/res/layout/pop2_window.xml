@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFFF"
+    android:background="#FFF9C4"
     android:orientation="vertical">
 
 
@@ -31,125 +31,24 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="87dp"
+                android:layout_height="305dp"
                 android:layout_marginLeft="20dp"
                 android:layout_marginTop="20dp"
                 android:layout_marginRight="20dp"
                 android:layout_marginBottom="20dp"
-                android:text="1) Rinse your wound with lukewarm running water for a few minutes to remove foreign objects and visible dirt."
+                android:text="1) Cover the wound with a gauze or a cloth. \n\n2) Apply direct pressure to stop the blood flow. \n\n3) Don't remove the cloth. Add more layers if needed. The cloth will help clots form to stop the flow."
                 android:textColor="#731621"
                 android:textSize="18sp">
 
             </TextView>
-
-            <ImageView
-                android:layout_width="213dp"
-                android:layout_height="178dp"
-                android:layout_gravity="center"
-                android:layout_marginBottom="20dp"
-                android:src="@drawable/bleed1">
-
-            </ImageView>
-
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="82dp"
-                android:layout_marginLeft="20dp"
-                android:layout_marginTop="20dp"
-                android:layout_marginRight="20dp"
-                android:layout_marginBottom="20dp"
-                android:text="2) Use a clean, dry bandage (or any clean absorbent cloth) and apply gentle pressure over the wound until the bleeding stops. "
-                android:textColor="#731621"
-                android:textSize="18sp">
-
-            </TextView>
-
-            <ImageView
-                android:layout_width="213dp"
-                android:layout_height="178dp"
-                android:layout_gravity="center"
-                android:layout_marginBottom="20dp"
-                android:src="@drawable/bleed2">
-
-            </ImageView>
-
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="82dp"
-                android:layout_marginLeft="20dp"
-                android:layout_marginTop="20dp"
-                android:layout_marginRight="20dp"
-                android:layout_marginBottom="20dp"
-                android:text="3) Normally, the pressure on the wound will promote blood clotting, which will help the bleeding stop within 15–20 minutes.  "
-                android:textColor="#731621"
-                android:textSize="18sp">
-
-            </TextView>
-
-            <ImageView
-                android:layout_width="213dp"
-                android:layout_height="178dp"
-                android:layout_gravity="center"
-                android:layout_marginBottom="20dp"
-                android:src="@drawable/bleed3">
-
-            </ImageView>
-
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="95dp"
-                android:layout_marginLeft="20dp"
-                android:layout_marginTop="20dp"
-                android:layout_marginRight="20dp"
-                android:layout_marginBottom="20dp"
-                android:text="4) Apply a layer of antibacterial cream as it helps prevent infection and keeps the dressing from sticking to the wound."
-                android:textColor="#731621"
-                android:textSize="18sp">
-
-            </TextView>
-
-            <ImageView
-                android:layout_width="213dp"
-                android:layout_height="178dp"
-                android:layout_gravity="center"
-                android:layout_marginBottom="20dp"
-                android:src="@drawable/bleed4">
-
-            </ImageView>
-
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="97dp"
-                android:layout_marginLeft="20dp"
-                android:layout_marginTop="20dp"
-                android:layout_marginRight="20dp"
-                android:layout_marginBottom="20dp"
-                android:text="5) With proper treatment, the cut will start healing in a few weeks. However, deeper cuts might take over a month to completely heal. "
-                android:textColor="#731621"
-                android:textSize="18sp">
-
-            </TextView>
-
-            <ImageView
-                android:layout_width="213dp"
-                android:layout_height="178dp"
-                android:layout_gravity="center"
-                android:layout_marginBottom="20dp"
-                android:src="@drawable/bleed5">
-
-            </ImageView>
-
-
 
 
         </LinearLayout>
 
 
+
     </ScrollView>
+
 
 
 </LinearLayout>

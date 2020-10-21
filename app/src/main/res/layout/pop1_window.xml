@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFFF"
+    android:background="#FFF9C4"
     android:orientation="vertical">
 
 
@@ -31,142 +31,16 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="60dp"
+                android:layout_height="305dp"
                 android:layout_marginLeft="20dp"
                 android:layout_marginTop="20dp"
                 android:layout_marginRight="20dp"
                 android:layout_marginBottom="20dp"
-                android:text="1) Command someone to call 1990 or the medical alert system for the locale."
+                android:text="1) Command someone to call 911 or the medical alert system for the locale. \n\n2) Compress hard and fast in the center of the chest, allowing recoil between compressions. Hand this task over to those who are trained if and when they arrive \n\n3) If you are trained, use chest compressions and rescue breathing."
                 android:textColor="#731621"
                 android:textSize="18sp">
 
             </TextView>
-
-            <ImageView
-                android:layout_width="213dp"
-                android:layout_height="178dp"
-                android:layout_gravity="center"
-                android:layout_marginBottom="20dp"
-                android:src="@drawable/cardiac_01">
-
-            </ImageView>
-
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="82dp"
-                android:layout_marginLeft="20dp"
-                android:layout_marginTop="20dp"
-                android:layout_marginRight="20dp"
-                android:layout_marginBottom="20dp"
-                android:text="2) To check your pulse over your carotid artery, place your index and middle fingers on your neck to the side of your windpipe. "
-                android:textColor="#731621"
-                android:textSize="18sp">
-
-            </TextView>
-
-            <ImageView
-                android:layout_width="213dp"
-                android:layout_height="178dp"
-                android:layout_gravity="center"
-                android:layout_marginBottom="20dp"
-                android:src="@drawable/cardiac_02">
-
-            </ImageView>
-
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="82dp"
-                android:layout_marginLeft="20dp"
-                android:layout_marginTop="20dp"
-                android:layout_marginRight="20dp"
-                android:layout_marginBottom="20dp"
-                android:text="3) A person suffering a cardiac arrest won't be breathing.Keeping their head back check for signs they are breathing. "
-                android:textColor="#731621"
-                android:textSize="18sp">
-
-            </TextView>
-
-            <ImageView
-                android:layout_width="213dp"
-                android:layout_height="178dp"
-                android:layout_gravity="center"
-                android:layout_marginBottom="20dp"
-                android:src="@drawable/cardiac_03">
-
-            </ImageView>
-
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="137dp"
-                android:layout_marginLeft="20dp"
-                android:layout_marginTop="20dp"
-                android:layout_marginRight="20dp"
-                android:layout_marginBottom="20dp"
-                android:text="4) Push hard, push fast. Place your hands, one on top of the other, in the middle of the chest. Use your body weight to help you administer compressions that are at least 2 inches deep and delivered at a rate of at least 100 compressions per minute."
-                android:textColor="#731621"
-                android:textSize="18sp">
-
-            </TextView>
-
-            <ImageView
-                android:layout_width="213dp"
-                android:layout_height="178dp"
-                android:layout_gravity="center"
-                android:layout_marginBottom="20dp"
-                android:src="@drawable/cardiac_04">
-
-            </ImageView>
-
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="115dp"
-                android:layout_marginLeft="20dp"
-                android:layout_marginTop="20dp"
-                android:layout_marginRight="20dp"
-                android:layout_marginBottom="20dp"
-                android:text="5) Tilt the casualty's head gently and lift the chin up with 2 fingers. Pinch the person's nose. Seal your mouth over their mouth, and blow steadily and firmly into their mouth for about 1 second."
-                android:textColor="#731621"
-                android:textSize="18sp">
-
-            </TextView>
-
-            <ImageView
-                android:layout_width="213dp"
-                android:layout_height="178dp"
-                android:layout_gravity="center"
-                android:layout_marginBottom="20dp"
-                android:src="@drawable/cardiac_05">
-
-            </ImageView>
-
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="94dp"
-                android:layout_marginLeft="20dp"
-                android:layout_marginTop="20dp"
-                android:layout_marginRight="20dp"
-                android:layout_marginBottom="20dp"
-                android:text="6) Use your free hand to bend the person's knee farthest from you to a right angle. Carefully roll the person onto their side by pulling on the bent knee. ."
-                android:textColor="#731621"
-                android:textSize="18sp">
-
-            </TextView>
-
-            <ImageView
-                android:layout_width="213dp"
-                android:layout_height="178dp"
-                android:layout_gravity="center"
-                android:layout_marginBottom="20dp"
-                android:src="@drawable/cardiac_06">
-
-            </ImageView>
-
-
 
 
         </LinearLayout>
