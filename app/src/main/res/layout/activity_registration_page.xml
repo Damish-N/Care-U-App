@@ -223,6 +223,26 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
+            <Spinner
+                android:id="@+id/gender"
+                android:layout_width="260dp"
+                android:layout_height="48dp"
+                android:layout_marginLeft="80dp"
+                android:layout_marginTop="10dp"
+                android:ems="10"
+                android:entries="@array/gender"
+                ></Spinner>
+
+                <DatePicker
+                    android:id="@+id/birthDay"
+                    android:layout_width="260dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="80dp"
+                    android:layout_marginTop="10dp"
+                    android:minDate="12/31/1940"
+                    android:maxDate="12/31/2012"
+                    android:datePickerMode="spinner"
+                    android:calendarViewShown="false"></DatePicker>
 <!--            <TextView-->
 <!--                android:id="@+id/addresstv"-->
 <!--                android:layout_width="match_parent"-->

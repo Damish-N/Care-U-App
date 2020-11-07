@@ -24,14 +24,14 @@ public class homePageDuplicate extends AppCompatActivity {
     Toolbar toolbar;
     SharedPreferences sharedPreferences1,sharedPreferences2;
 
-    @Override
-    public void onBackPressed() {
-        sharedPreferences1=getSharedPreferences("logIn",MODE_PRIVATE);
-        if(sharedPreferences1.contains("logInStatus"))
-        {
-            finishAffinity();
-        }
-    }
+//    @Override
+//    public void onBackPressed() {
+//        sharedPreferences1=getSharedPreferences("logIn",MODE_PRIVATE);
+//        if(sharedPreferences1.contains("logInStatus"))
+//        {
+//            finishAffinity();
+//        }
+//    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,12 +40,11 @@ public class homePageDuplicate extends AppCompatActivity {
         //sessions updates in Login Files
 
         sharedPreferences2=getSharedPreferences("logIn",MODE_PRIVATE);
-        if(!sharedPreferences2.contains("logInStatus"))
-        {
-            SharedPreferences.Editor editor=sharedPreferences2.edit();
-            editor.putString("logInStatus","IN");
-            editor.apply();
-        }
+//        if(!sharedPreferences2.contains("logInStatus")) {
+//            SharedPreferences.Editor editor=sharedPreferences2.edit();
+//            editor.putString("logInStatus","IN");
+//            editor.apply();
+//        }
 
 
         drawerLayout = findViewById(R.id.drawer);

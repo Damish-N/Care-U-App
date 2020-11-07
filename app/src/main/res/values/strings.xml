@@ -12,41 +12,61 @@
     <string name="invalid_number1">Number type must be (078/077/076/075/072/071/070) 10 Digit Number</string>
     <string name="invalid_number2">Number type must be (78/77/76/75/72/71/70) 10 Digit Number</string>
     <string-array name="Dis">
-        <item>Galle</item>
-        <item>Colombo</item>
-        <item>Kandy</item>
-        <item>Gampaha</item>
-        <item>Mathara</item>
-        <item>Hamabanthota</item>
-        <item>New Zealand</item>
-        <item>India</item>
-        <item>Malaysia</item>
-        <item>United States</item>
-        <item>Indonesia</item>
-        <item>France</item>
-        <item>Italy</item>
-        <item>Singapore</item>
-        <item>New Zealand</item>
-        <item>India</item>
+        <item>Ampara(අම්පාර)</item>
+        <item>Anuradhapura(අනුරාධපුර)</item>
+        <item>Badulla(බදුල්ල)</item>
+        <item>Batticola(මඩකලපුව )</item>
+        <item>Colombo(කොළඹ)</item>
+        <item>Galle(ගාල්ල)</item>
+        <item>Gampaha(ගම්පහ)</item>
+        <item>Hambanthota(හම්බන්තොට)</item>
+        <item>Jaffna(යාපනය)</item>
+        <item>Kaluthatra(කලුතර)</item>
+        <item>Kandy(නුවර)</item>
+        <item>Kegalle(කෑගල්ල)</item>
+        <item>Kilinochchi(කිලිනොච්චි)</item>
+        <item>Kurunagala(කුරුණැගල)</item>
+        <item>Mannar(මන්නාරම)</item>
+        <item>Mathale(මාතලේ )</item>
+        <item>Mathara(මාතර)</item>
+        <item>Monaragala(මොණරාගල )</item>
+        <item>Mulathivu(මුලතිවු )</item>
+        <item>Nuwara Eliya(නුවරඑළිය )</item>
+        <item>Polonnaruwa(පොළොන්නරුව)</item>
+        <item>Puththalam(පුත්තලම)</item>
+        <item>Rathnapura(රත්නපුර)</item>
+        <item>Trincomalee(ත්‍රිකුණාමළය)</item>
+        <item>Vavuniya(වවුනියා )</item>
+
     </string-array>
 
     <string-array name="Dis_pos">
-        <item>Galle-Police</item>
-        <item>Colombo-Police</item>
-        <item>Kandy-Police</item>
-        <item>Gampaha-Police</item>
-        <item>Mathara-Police</item>
-        <item>Hamabanthota-Police</item>
-        <item>Tengalle-Police</item>
-        <item>Haguranoketha-Police</item>
-        <item>Malaysia-Police</item>
-        <item>United States-Police</item>
-        <item>Indonesia-Police</item>
-        <item>France</item>
-        <item>Italy</item>
-        <item>Singapore</item>
-        <item>New Zealand</item>
-        <item>India</item>
+        <item>Ampara-Police-Station</item>
+        <item>Anuradhapura-Police-Station</item>
+        <item>Badulla-Police-Station</item>
+        <item>Batticola-Police-Station</item>
+        <item>Colombo-Police-Station</item>
+        <item>Galle-Police-Station</item>
+        <item>Gampaha-Police-Station</item>
+        <item>Hambanthota-Police-Station)</item>
+        <item>Jaffna-Police-Station</item>
+        <item>Kaluthatra-Police-Station</item>
+        <item>Kandy-Police-Station</item>
+        <item>Kegalle-Police-Station</item>
+        <item>Kilinochchi-Police-Station</item>
+        <item>Kurunagala-Police-Station</item>
+        <item>Mannar-Police-Station</item>
+        <item>Mathale-Police-Station</item>
+        <item>Mathara-Police-Station</item>
+        <item>Monaragala-Police-Station</item>
+        <item>Mulathivu-Police-Station</item>
+        <item>Nuwara Eliya-Police-Station</item>
+        <item>Polonnaruwa-Police-Station</item>
+        <item>Puththalam-Police-Station</item>
+        <item>Rathnapura-Police-Station</item>
+        <item>Trincomalee-Police-Station</item>
+        <item>Vavuniya-Police-Station</item>
+
     </string-array>
     <string-array name="Number_of_Patients">
         <item>1</item>
@@ -57,4 +77,12 @@
         <item>more than 5</item>
 
     </string-array>
+
+    <string-array name="gender">
+
+        <item>Male</item>
+        <item>Female</item>
+
+    </string-array>
+
 </resources>
