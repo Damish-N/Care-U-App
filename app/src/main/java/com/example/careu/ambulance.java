@@ -249,7 +249,7 @@ public class ambulance extends AppCompatActivity {
                             // adapter.add(line);
 
                             SmsManager smsManager = SmsManager.getDefault();
-                            smsManager.sendTextMessage(String.valueOf(phone), null, "troo899ss!!", null, null);
+                            smsManager.sendTextMessage(String.valueOf(phone), null, "I am In trouble !!", null, null);
 
 
                             // Intent intent=new Intent(getApplicationContext(),MainActivity.class);
@@ -264,7 +264,7 @@ public class ambulance extends AppCompatActivity {
 
                         }
                     } else {
-                        Toast.makeText(getApplicationContext(), "error", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getApplicationContext(), "error massage ", Toast.LENGTH_SHORT).show();
                     }
 
                 } catch (JSONException e) {
